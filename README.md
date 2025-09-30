@@ -11,8 +11,10 @@
 
 | 손지원 | 김민성 | 이규경 | 이진배 | 현금비 |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="" width="120" alt="손지원"/> | <img src="./assets/team/kim.png" width="120" alt="김민성"/> | <img src="./assets/team/shin.png" width="120" alt="이규경"/> | <img src="./assets/team/lee.png" width="120" alt="이진배"/> | <img src="./assets/team/lim.png" width="120" alt="현금비"/> |
+| <img src="src/pic/Yuri.png" width="120" alt="손지원"/> | <img src="src/pic/Manggu.png" width="120" alt="김민성"/> | <img src="src/pic/Cheolsu.png" width="120" alt="이규경"/> | <img src="src/pic/Hoonee.png" width="120" alt="이진배"/> | <img src="src/pic/Suji.png" width="120" alt="현금비"/> |
 | 팀장<br>미정<br>미정 | 미정<br>미정<br>미정  | 미정<br>미정<br>미정 | 미정<br>미정<br>미정 | 미정<br>미정<br>미정 | 미정<br>미정<br>미정 |
+
+- 사용 데이터 : View-T
 
 # 프로젝트 기획서
 
