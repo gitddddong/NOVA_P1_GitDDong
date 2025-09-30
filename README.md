@@ -4,6 +4,15 @@ HDC NOVA 스마트빌딩 대시보드 개발
 
 # 프로젝트 기획서
 
+# MEMBERS
+## 📣 팀원 소개
+
+| 손지원 | 김민성 | 이규경 | 이진배 | 현금비 |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="./assets/team/park.png" width="120" alt="손지원"/> | <img src="./assets/team/kim.png" width="120" alt="김민성"/> | <img src="./assets/team/shin.png" width="120" alt="이규경"/> | <img src="./assets/team/lee.png" width="120" alt="이진배"/> | <img src="./assets/team/lim.png" width="120" alt="현금비"/> |
+| 팀장<br>미정<br>미정 | 미정 | 미정<br>미정<br>미정 | 미정<br>미정<br>미정 | 미정<br>미정<br>미정 | 미정<br>미정 |
+
+
 # 1. 프로젝트 개요
 - 프로젝트 주제 :
 - 목표 : 데이터 기반 인사이트 도출 및 시각적 보고
