@@ -1,4 +1,4 @@
-# 🚧NOVA_P1_GitDDong🚧
+# 🚧ai01-1st-GitDDong-AIoT_Infra_Dashboard🚧
 
 💻HDC NOVA 인프라 대시보드 개발
 
