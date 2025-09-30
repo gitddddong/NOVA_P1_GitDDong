@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 전기요금 - 한전
 https://online.kepco.co.kr/PRM004D00
 적용일자 : 2024년 01월 01일
@@ -8,3 +9,6 @@ https://online.kepco.co.kr/PRM004D00
 
 가상청 API허브 
 https://apihub.kma.go.kr/
+=======
+test message
+>>>>>>> 255e6bc842ffda3ffaf5eef6afcacea2666839fe
