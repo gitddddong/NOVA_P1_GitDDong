@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 전기요금 - 한전
 https://online.kepco.co.kr/PRM004D00
 적용일자 : 2024년 01월 01일
@@ -7,8 +6,8 @@ https://online.kepco.co.kr/PRM004D00
 310-450kWh < 1,600 : 214.6
 > 450kWh   7,300 : 307.3
 
-가상청 API허브 
+가상청 API허브 - 잘 안되고 현재 오늘만 서비스함?
 https://apihub.kma.go.kr/
-=======
-test message
->>>>>>> 255e6bc842ffda3ffaf5eef6afcacea2666839fe
+
+날씨를 위치,기간별로 다운로드 가능
+https://wamis.go.kr/
