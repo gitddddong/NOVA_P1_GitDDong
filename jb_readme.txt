@@ -21,3 +21,8 @@ https://data.seoul.go.kr/dataList/OA-15822/S/1/datasetView.do
 인프라
 교통,철도,항만???
 https://viewt.ktdb.go.kr/
+
+
+C:\HDCLab\NOVA_P1_GitDDong\data\level5.5_level6_matchingtable_2023.csv : 
+좌우에 "",
+길이가 긴 이상 데이터 -> 삭제
