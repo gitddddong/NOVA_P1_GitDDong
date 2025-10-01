@@ -11,3 +11,13 @@ https://apihub.kma.go.kr/
 
 날씨를 위치,기간별로 다운로드 가능
 https://wamis.go.kr/
+
+아파트 정보
+https://data.seoul.go.kr/dataList/OA-15818/S/1/datasetView.do
+
+관리비정보 엮으면 좋ㅇ?
+https://data.seoul.go.kr/dataList/OA-15822/S/1/datasetView.do
+
+인프라
+교통,철도,항만???
+https://viewt.ktdb.go.kr/

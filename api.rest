@@ -1,1 +1,37 @@
-GET https://apihub.kma.go.kr/api/typ02/openApi/VilageFcstInfoService_2.0/getUltraSrtFcst?pageNo=1&numOfRows=1000&dataType=XML&base_date=20210628&base_time=0630&nx=55&ny=127&authKey=tnvu9MccTDe77vTHHAw3BA
+GET https://viewt.ktdb.go.kr//cong/api/selectedLink_road.do?LINKID=1000001&YEAR=2024&WEEKTYPE=1&TIME=ALL
+
+###
+GET https://viewt.ktdb.go.kr//cong/api/basedPathOD_emd2sgg.do?ZONEID=1101053&YEAR=2024&WEEKTYPE=1&TIME=ALL
+
+###
+GET https://apis.openapi.sk.com/tmap/pois?version=1&searchKeyword=SKT&searchType=all&page=1&count=20&resCoordType=WGS84GEO&multiPoint=N&searchtypCd=A&reqCoordType=WGS84GEO&poiGroupYn=N
+Accept: application/json
+appKey: kZEr3Qsk1g1kn9DzHTDXi677sqvPquPs3ZERTbK2
+
+###
+GET https://apis.openapi.sk.com/tmap/traffic?version=1&centerLat=37.56656541&centerLon=126.98452047&trafficType=AUTO&radius=1&zoomLevel=10
+Accept: application/json
+appKey: kZEr3Qsk1g1kn9DzHTDXi677sqvPquPs3ZERTbK2
+
+###
+POST https://viewt.ktdb.go.kr/cong/map/clickLocation.do
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 23
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Cookie: JSESSIONID=413014DE3F81D9D99696FAE75D94BD69.was10; _fwb=2503YCrCD0ricuCMJA4jyFS.1759212500530; _fwb=2503YCrCD0ricuCMJA4jyFS.1759212500530; _gid=GA1.3.410186328.1759213196; JSESSIONID=5025DE7DC7E17328F881BE4521929146.was10; wcs_bt=b1475f8189ed10:1759283283; _ga_C2NJRJYKCY=GS2.1.s1759283283$o5$g1$t1759283924$j47$l0$h0; _ga=GA1.1.1392872823.1759213196; ShowMainHelp=none; lastLog=126.847564021689; lastlat=37.4989344424374; lastZoom=15
+Host: viewt.ktdb.go.kr
+Origin: https://viewt.ktdb.go.kr
+Pragma: no-cache
+Referer: https://viewt.ktdb.go.kr/cong/map/second_map.do
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+X-Requested-With: XMLHttpRequest
+sec-ch-ua: "Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
